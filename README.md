@@ -1,0 +1,2 @@
+# opencv-training
+EASYSOLVE PRIVATE LIMITED TRAINING
